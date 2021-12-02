@@ -1,0 +1,7 @@
+1- open the script using a text editor
+2- edit the filepaths in line 32 to 35 (font 1, 2, 3 & filePath)
+4- to execute the script using the terminal, change the directory to where you have blender installed, and run the command : Blender -d --python C:\Users\yassine\Desktop\Alexkwood\Alexkwood_gig2.py
+5- give it a few seconds to execute (4secs)
+6-click anywhere to finish the execution
+
+P.S : in the command in step 4, you should type the python script path
