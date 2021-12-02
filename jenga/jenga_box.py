@@ -23,7 +23,7 @@ bpy.context.scene.frame_start = 0
 bpy.context.scene.frame_end = 300
 
 ##########################################################################
-fileExportPath = "D:\\cube.fbx"   #edit this
+fileExportPath = "C:\\Users\\yassine\\Desktop\\jenga\\cube.fbx"   #edit this
 
 bonnet_path = 'C:\\Users\\yassine\\Desktop\\jenga\\img\\bonnet.png'
 bonnet_filename = 'bonnet.png'
